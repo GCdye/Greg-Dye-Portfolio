@@ -7,7 +7,7 @@
 
 ## Neural Network Plant classifier
 
-This is my capstone project aimed at helping new farmers in South Africa identify weeds from crop seedlings.
+This is my capstone project aimed at helping new farmers in South Africa identify harmful weeds from crop seedlings.
 [See more HERE](https://github.com/GCdye/Neural_Network_Plant_classifier)
 ## Income predictor
 
