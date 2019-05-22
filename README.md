@@ -1,5 +1,5 @@
 # Gregory "Chuck" Dye
-## A compassionate and driven Data Scientist, who integrates newest trends and developments in Big-Data and predictive modeling.
+### A compassionate and driven Data Scientist, who integrates newest trends and developments in Big-Data and predictive modeling.
 
 # Projects
 ## Neural_Network_Plant_classifier
@@ -12,4 +12,7 @@ A machine learning experiment for predicting incomes. A group project designed i
 ## Using Zillow to Estimate Damages from Natural Disasters
 A real-world Group project designed on helping FEMA to better calculate the cost of potential damages from any given disaster in any given location. Also to develop a formula, using existing pricing databases, to calculate property damage caused by natural phenomena within a specific zip code or area.
 [See more HERE](https://github.com/zeeemo/Disaster-Estimates)
-## 
+
+## Are_you_afraid_of_the_story
+Is it possible to classify a story as fact or fiction with machine learning? My research says yes.
+[See more HERE](https://github.com/GCdye/Are_you_afraid_of_the_story)
